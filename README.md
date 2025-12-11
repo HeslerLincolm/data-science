@@ -15,7 +15,7 @@ Este portafolio está en crecimiento. Puede revisar cada proyecto con su código
 
 ---
 
-## 📁 Proyectos
+## 📁 Proyectos en Data Science
 
 ### 🔹 1. **Machine Learning para la clasificación de tickets de servicio**
 Desarrollar un modelo de ML capaz de clasificar tickets de soporte de una entidad bancaria para mejorar la gestión, priorización y el tiempo de respuesta de solicitudes internas. 
@@ -23,12 +23,21 @@ Desarrollar un modelo de ML capaz de clasificar tickets de soporte de una entida
 
 ---
 
+## 📁 Proyectos en Data Analytics
+
+### 🔹 1. **Análisis evolutivo de ventas y ticket promedio de una cafetería con PowerBI **
+Transformar datos brutos de transacciones en información procesable para la toma de decisiones estratégicas, permitiendo visualizar tendencias históricas y proyecciones.
+👉 [Ver repositorio](https://github.com/HeslerLincolm/Analisis-ventas-ticket-promedio)
+
+---
+
 ## 🛠️ Tecnologías que utilizo
-- Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn)
-- Machine Learning supervisado
-- Análisis exploratorio de datos (EDA)
+- Python (Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn) y R.
 - Jupyter Notebooks
 - Git y GitHub
+- PowerBI
+- SQL Server
+- Excel
 
 ---
 
